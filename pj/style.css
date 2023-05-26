@@ -91,3 +91,17 @@
 .left {
   display: flex;
 }
+
+.btn {
+  border-radius: 20%;
+  border: 1px solid #ffbe0a;
+  padding: 5px;
+  color: #4e5180;
+  background-color: #ffbe0a;
+}
+
+.Login {
+  border-bottom: 1px solid;
+  margin: 10px;
+  float: right;
+}
